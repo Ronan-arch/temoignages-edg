@@ -1,0 +1,8 @@
+{
+  "name": "temoignages-edg",
+  "version": "1.0.0",
+  "description": "Gestion des témoignages École des Guérisseuses",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
